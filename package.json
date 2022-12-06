@@ -12,5 +12,8 @@
   "author": "Cristobal Lopez <cristobal18422@gmail.com>",
   "license": "MIT",
   "type": "module",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
